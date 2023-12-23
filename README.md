@@ -33,7 +33,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./public/screenshot.jpg)
+![Example screenshot](./public/screenshots/screenshot.jpg)
 
 
 ## Project Status
