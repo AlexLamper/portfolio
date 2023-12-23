@@ -52,5 +52,10 @@ To do:
 - Many thanks to NextJS and Vercel for making this process a lot easier :)
 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 ## Contact
 Created by [@AlexLamper](https://github.com/AlexLamper) - feel free to contact me!
