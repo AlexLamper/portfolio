@@ -1,38 +1,56 @@
-# Portfolio Starter Kit
+# Peronal Portfolio
+> The website/application of my personal portfolio where you can read some general information about me, see the projects projects which I made and others things I want to share with you. 
+> Live demo [_here_](https://www.alexlamper.nl).
 
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
 
-https://demo.vercel.blog
+## General Information
+- In my personal portfolio you can read some general information about me, see the projects projects which I made and others things I want to share with you. 
+- The purpose of this website is to give you a look in the brain of a young software engineer and show off some of my projects.
+  
 
-## Configuration
+## Technologies Used
+- NextJS (v14)
+- Tailwind CSS (v3.0)
 
-1. Update your name in `theme.config.js` or change the footer.
-1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
-1. Update the meta tags in `pages/_document.tsx`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
 
-## Deploy your own
+## Features
+List the ready features here:
+- Home page with general information.
+- Drawings page with all my drawings I made.
+- Posts page, where I share my thoughts.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog&project-name=portfolio&repository-name=portfolio)
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Project Status
+Project is: _in progress_
 
-```bash
-npx create-next-app --example blog my-blog
-# or
-yarn create next-app --example blog my-blog
-# or
-pnpm create next-app --example blog my-blog
-```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Room for Improvement
+
+To do:
+- Update and add more drawings to the drawings page
+- Add contact information for users
+
+
+## Acknowledgements
+- This project was based on [this template](https://vercel.com/templates/next.js/portfolio-starter-kit).
+- Many thanks to NextJS and Vercel for making this process a lot easier :)
+
+
+## Contact
+Created by [@AlexLamper](https://www.alexlamper.nl) - feel free to contact me!
