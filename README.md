@@ -53,4 +53,4 @@ To do:
 
 
 ## Contact
-Created by [@AlexLamper](https://www.alexlamper.nl) - feel free to contact me!
+Created by [@AlexLamper](https://github.com/AlexLamper) - feel free to contact me!
