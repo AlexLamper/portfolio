@@ -1,38 +1,28 @@
-# Portfolio Starter Kit
+# Personal Portfolio - Alex Lamper
 
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
+## Introduction
+This project is my personal portfolio website. It serves as a showcase of my skills, achievements, projects and some general information about me. In this README, I'll explain how I created it step by step and share some additional information.
 
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
+## How I Did It
+### 1. Planning
+I started by outlining the project's layout, design, and content. I took inspiration from other personal portfolio websites. My main goal was to keep a minimalistic style over the whole website. That's why you don't see any flashy colors or messy parts. I wanted to keep it simple. 
 
-https://demo.vercel.blog
+### 2. Technology Stack
+For this project, I used the following tools and technologies:
+- NextJS (Typescript): For building the portfolio
+- TailwindCSS: For styling and making the layout for the application.
+- Visual Studio Code: My preferred code editor where I code all my projects in.
+- Git & GitHub: For version control and hosting the project repository.
 
-## Configuration
+### 3. Design and Development
+I designed the website's layout to visualize the structure. Then, I implemented the following features step by step:
+- Created a simple and minimalistic home page.
+- Added a drawings page, where you can see al my drawings I made.
+- Added a posts page, where I share some of my thoughts.
+- Added details such as small animations and transitions to enhance the user experience.
 
-1. Update your name in `theme.config.js` or change the footer.
-1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
-1. Update the meta tags in `pages/_document.tsx`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
+## Additional Information
+- **Deployed Site:** You can access the deployed site [here](https://alexlamper.nl).
+- **Tools & Languages Used:** NextJS, Typescript, JavaScript, Visual Studio Code, Tailwind, Favicon.io, Gradient Image Maker, Google Fonts,  Git & GitHub and more...
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog&project-name=portfolio&repository-name=portfolio)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example blog my-blog
-# or
-yarn create next-app --example blog my-blog
-# or
-pnpm create next-app --example blog my-blog
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Feel free to explore my portfolio and reach out if you have any questions or feedback. Thank you for visiting!
