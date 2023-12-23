@@ -1,28 +1,56 @@
-# Personal Portfolio - Alex Lamper
+# Peronal Portfolio
+> The website/application of my personal portfolio where you can read some general information about me, see the projects projects which I made and others things I want to share with you. 
+> Live demo [_here_](https://www.alexlamper.nl).
 
-## Introduction
-This project is my personal portfolio website. It serves as a showcase of my skills, achievements, projects and some general information about me. In this README, I'll explain how I created it step by step and share some additional information.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-## How I Did It
-### 1. Planning
-I started by outlining the project's layout, design, and content. I took inspiration from other personal portfolio websites. My main goal was to keep a minimalistic style over the whole website. That's why you don't see any flashy colors or messy parts. I wanted to keep it simple. 
 
-### 2. Technology Stack
-For this project, I used the following tools and technologies:
-- NextJS (Typescript): For building the portfolio
-- TailwindCSS: For styling and making the layout for the application.
-- Visual Studio Code: My preferred code editor where I code all my projects in.
-- Git & GitHub: For version control and hosting the project repository.
+## General Information
+- In my personal portfolio you can read some general information about me, see the projects projects which I made and others things I want to share with you. 
+- The purpose of this website is to give you a look in the brain of a young software engineer and show off some of my projects.
+  
 
-### 3. Design and Development
-I designed the website's layout to visualize the structure. Then, I implemented the following features step by step:
-- Created a simple and minimalistic home page.
-- Added a drawings page, where you can see al my drawings I made.
-- Added a posts page, where I share some of my thoughts.
-- Added details such as small animations and transitions to enhance the user experience.
+## Technologies Used
+- NextJS (v14)
+- Tailwind CSS (v3.0)
 
-## Additional Information
-- **Deployed Site:** You can access the deployed site [here](https://alexlamper.nl).
-- **Tools & Languages Used:** NextJS, Typescript, JavaScript, Visual Studio Code, Tailwind, Favicon.io, Gradient Image Maker, Google Fonts,  Git & GitHub and more...
 
-Feel free to explore my portfolio and reach out if you have any questions or feedback. Thank you for visiting!
+## Features
+List the ready features here:
+- Home page with general information.
+- Drawings page with all my drawings I made.
+- Posts page, where I share my thoughts.
+
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+
+## Project Status
+Project is: _in progress_
+
+
+## Room for Improvement
+
+To do:
+- Update and add more drawings to the drawings page
+- Add contact information for users
+
+
+## Acknowledgements
+- This project was based on [this template](https://vercel.com/templates/next.js/portfolio-starter-kit).
+- Many thanks to NextJS and Vercel for making this process a lot easier :)
+
+
+## Contact
+Created by [@AlexLamper](https://www.alexlamper.nl) - feel free to contact me!
