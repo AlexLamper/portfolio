@@ -4,15 +4,18 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Lucerny
-        <a href="/feed.xml">RSS</a>
+        <a href="https://lucerny.nl"><time>{YEAR}</time>© Lucerny</a>
+        <a id="rss" href="/feed.xml">RSS</a>
       </small>
       <style jsx>{`
         footer {
           margin-top: 8rem;
         }
-        a {
+        #rss {
           float: right;
+        }
+        a {
+          text-decoration: none;
         }
       `}</style>
     </footer>
