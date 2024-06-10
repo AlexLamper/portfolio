@@ -1,47 +1,47 @@
 ---
-title: My Web Development Journey
-date: 2024/1/15
-description: Reflecting on my web development journey, the projects I've created, lessons learned, and my passion for further exploration.
+title: My First Client of My Web Development Business
+date: 2024/06/10
+description: A website project made for a local business as my first client for Lucerny.
 tag: web development
 author: You
 ---
 
-# My Web Development Journey
+# My First Client of My Web Development Business
 
 ## Introduction
 
-Embarking on the exciting journey of web development has been a transformative experience. In this blog post, I want to share my accomplishments, lessons learned, and the motivation driving me to delve deeper into the vast realm of web development.
+Launching my web development business, Lucerny, was a goal of mine. In this project blog post, I am excited to share the journey of securing and completing my first client project, the lessons I learned, and more.
 
-## Projects and Creations
+## The Project
 
-Over the course of my journey, I've had the pleasure of working on diverse projects that have not only honed my technical skills but also allowed me to express my creativity. One notable project is [Nextra](https://nextra.vercel.app/), a web application that [Next.js](https://nextjs.org/) users can leverage for a seamless development experience. The process of conceptualizing, coding, and refining this project was both challenging and immensely rewarding.
+My first client was a local plastering business seeking a professional and user-friendly website to enhance their online presence. This project was a significant milestone for me, marking the beginning of my professional journey in web development.
 
-Another significant achievement has been my contribution to [Vercel](http://vercel.com). Collaborating with a team dedicated to pushing the boundaries of web development, I've learned valuable insights into efficient deployment and optimization strategies. It's incredibly satisfying to see the impact of our work on the broader developer community.
+The client required a comprehensive solution that included a responsive design, easy navigation, and image system to display their works. I chose to build the website using [Next.js](https://nextjs.org/), ensuring optimal performance and scalability.
+
+### Key Features
+
+- **Responsive Design**: The website adapts seamlessly to various devices, providing a consistent user experience across desktops, tablets, and smartphones.
+- **User-Friendly Navigation**: A clean and intuitive navigation structure was implemented to enhance user engagement and accessibility.
+- **Image Displaying System**: Integrated a image display system for the projects the client had done. Those images must be nicely displayed in a well looking format and must load quickly.
+
+### Technical Challenges
+
+One of the challenges I faced was optimizing the website for speed without compromising on aesthetics. This required a good selection of the image loading system, optimization of the images and lazy loading.
 
 ## Lessons Learned
 
-### Embracing Markdown
+### Client Communication
 
-One of the key skills I've acquired is proficiency in Markdown. Its simplicity and versatility make it an invaluable tool for creating clean and readable documentation, as evidenced by this very blog post.
+Effective communication with the client was crucial throughout the project. Regular updates and feedback sessions ensured that the project stayed on track and met the client's expectations. This experience underscored the importance of clear and consistent communication in achieving project success.
 
-### Continuous Learning
+### Project Management
 
-Web development is a dynamic field, and staying current with the latest technologies is crucial. I've cultivated a habit of continuous learning, whether it's exploring new JavaScript frameworks, mastering responsive design principles, or delving into serverless architecture.
+Managing the project from start to finish taught me valuable lessons in time management and prioritization. Setting realistic milestones and deadlines helped me stay organized and deliver the project on time.
 
-### Collaboration and Communication
+### Technical Growth
 
-Working on open-source projects and collaborating with diverse teams have taught me the importance of effective communication and version control. These skills are not only essential for smooth teamwork but also contribute to the overall success of a project.
-
-## Future Aspirations
-
-As I reflect on my journey so far, my enthusiasm for web development only grows stronger. The endless possibilities of creating user-centric, performant web applications motivate me to explore new technologies, frameworks, and design principles.
+Working on this project expanded my technical skills, particularly in responsive design and performance optimization. I also gained experience in using Next.js for client projects, which has become a valuable tool for me which I can use later on as well.
 
 ## Conclusion
 
-In conclusion, my web development journey has been a fulfilling adventure of creativity, challenges, and continuous growth. I look forward to contributing more to the ever-evolving landscape of web development, driven by a passion for innovation and a commitment to enhancing the digital experience for users worldwide.
-
-### Footnotes
-
-- Footnote: Reflecting on how far I've come and the exciting path ahead [^1].
-
-[^1]: Here's to more lines of code and endless possibilities!
+My first client project for my web development business was a nice project to work on. I learned a lot of things from it, how to communicate with a client, technical skills, and design skills. It was a blend of challenges, learning, and satisfaction that has set a good start for my journey.
